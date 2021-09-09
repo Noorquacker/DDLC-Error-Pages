@@ -10,6 +10,7 @@
 		<h1>502</h1>
 		<h2>Bad Gateway</h2>
 		<h3>Ehhh... It was there the last time I checked...</h3>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</div>
 	<footer class="footer">
 		&copy; Noorquacker Ind. <?php echo date('Y');?>. <a href="https://www.nqind.com">Return to home.</a>

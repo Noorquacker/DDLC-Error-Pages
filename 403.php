@@ -10,6 +10,7 @@
 		<h1>403</h1>
 		<h2>Forbidden.</h2>
 		<h3>I don't think an amateur should hang around here.</h3>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</div>
 	<footer class="footer">
 		&copy; Noorquacker Ind. <?php echo date('Y');?>. <a href="https://www.nqind.com">Return to home.</a>

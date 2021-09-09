@@ -10,6 +10,7 @@
 		<h1>504</h1>
 		<h2>Gateway Timeout</h2>
 		<h3>I'm sorry. I couldn't.</h3>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</div>
 	<footer class="footer">
 		&copy; Noorquacker Ind. <?php echo date('Y');?>. <a href="https://www.nqind.com">Return to home.</a>
